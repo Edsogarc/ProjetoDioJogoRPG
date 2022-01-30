@@ -1,0 +1,15 @@
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ProjetoDIOJogoRPG.exe
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ProjetoDIOJogoRPG.deps.json
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ProjetoDIOJogoRPG.runtimeconfig.json
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ProjetoDIOJogoRPG.dll
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ref\ProjetoDIOJogoRPG.dll
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\bin\Debug\net6.0\ProjetoDIOJogoRPG.pdb
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.csproj.AssemblyReference.cache
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.AssemblyInfoInputs.cache
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.AssemblyInfo.cs
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.dll
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ref\ProjetoDIOJogoRPG.dll
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.pdb
+C:\Users\edson\Desktop\ProjetoDIOJogoRPG\obj\Debug\net6.0\ProjetoDIOJogoRPG.genruntimeconfig.cache
